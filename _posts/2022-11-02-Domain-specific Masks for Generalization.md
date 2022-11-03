@@ -1,4 +1,4 @@
-## [Representation Disentangle] Learning to Balance Specificity and Invariance for In and Out of Domain Generalization
+## [Representation Disentanglement] Learning to Balance Specificity and Invariance for In and Out of Domain Generalization
 - [x] Public accessibility to [paper](https://arxiv.org/pdf/2008.12839.pdf)
 - [x] Reproducibility [code](https://github.com/prithv1/DMG) 
 
